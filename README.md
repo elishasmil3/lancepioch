@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Lance 👋
+
+#### I am a Core Team Member of [Laravel Livewire](https://github.com/livewire) and [Pterodactyl](https://github.com/pterodactyl).
+Please check them out! Livewire is a magical framework subset variant of Laravel while Pterodactyl is a large Laravel app that communicates with Docker to manage game servers.
 
 <!--
 **lancepioch/lancepioch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
