@@ -1,8 +1,8 @@
 ### Hi there, I'm Lance 👋
 
-#### I am a Core Team Member of [Pterodactyl](https://github.com/pterodactyl).
+#### I am the Project Maintainer of [Pelican](https://github.com/pelican-dev).
 
-💬 Ask me about Livewire or Pterodactyl if you have any technical questions 👍  
+💬 Ask me about Livewire or Pelican if you have any technical questions 👍  
 ⚡ Fun fact, I've got 5 years of martial arts experience 🥋  
 📫 Feel free to email me about anything business related, here: me@[my first name].sh 📧
 
