@@ -4,7 +4,7 @@
 
 💬 Ask me about Livewire or Pelican if you have any technical questions 👍  
 ⚡ Fun fact, I've got 5 years of martial arts experience 🥋  
-📫 Feel free to email me about anything business related, here: me@[my first name].sh 📧
+📫 Feel free to email me about anything business related, here: me@lance.sh 📧
 
 <!--
 **lancepioch/lancepioch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
